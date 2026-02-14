@@ -38,7 +38,7 @@ The platform achieves **96.71% accuracy** and features a cyber-forensic dashboar
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/sahil1399m/AI_DEEPFAKE_FINAL_MODEL)
-- [Demo Video]([INSERT_YOUR_YOUTUBE_LINK])
+- [Demo Video](https://raw.githubusercontent.com/sahil1399m/AI_DEEPFAKE_FINAL_MODEL/main/demo_video_for_project.mp4)
 - [Project Screenshots]([INSERT_YOUR_DRIVE_LINK])
 - [Hosted Website](https://aideepfakefinalmodel-8klv8esicpxfjwcq3b7jjj.streamlit.app/)
 
@@ -180,3 +180,4 @@ streamlit run app.py
 
 * **Abhishek Kotwani:** [GitHub/LinkedIn](https://www.linkedin.com/in/abhishek-kotwani?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * **Om Mukherjee:** [GitHub/LinkedIn](https://www.linkedin.com/in/om-mukherjee7?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
